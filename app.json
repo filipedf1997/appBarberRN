@@ -1,5 +1,11 @@
 {
   "expo": {
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "js", "jsx", "svg", "ts", "tsx"
+      ]
+    },    
     "name": "barber",
     "slug": "barber",
     "version": "1.0.0",
